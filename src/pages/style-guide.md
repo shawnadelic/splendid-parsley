@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: FX Stuff
 seo:
   type: stackbit_page_meta
   title: Theme Style Guide
